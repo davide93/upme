@@ -1,13 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: davide93 # Your GitHub username
+repo: upme # Your Github repository name
 
 # Add your sites here
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
