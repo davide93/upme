@@ -1,10 +1,10 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Retiche",
+    "url": "https://www.retiche.it",
+    "slug": "retiche",
     "status": "up",
     "uptime": "100.00",
-    "time": 105
+    "time": 1716
   }
 ]
