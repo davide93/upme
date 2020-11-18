@@ -16,8 +16,6 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://demo.upptime.js.org)
-
 ## 📄 License
 
 - Code: [MIT](./LICENSE) © [Upptime](https://upptime.js.org)
