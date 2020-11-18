@@ -4,8 +4,8 @@ repo: upme # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
+  - name: Retiche
+    url: https://www.retiche.it
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
